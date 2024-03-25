@@ -1,0 +1,2 @@
+# DIOAWSPractitioner
+Projeto AWS Practitioner
