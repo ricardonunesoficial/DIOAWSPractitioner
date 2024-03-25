@@ -13,11 +13,9 @@ Repositório desenvolvido para fins educativos, com entrega de um relatorio sobr
 *Empresa:* Abstergo Industries 
 *Responsável:* Ricardo Nunes
 
-## Ferramentas
-
 **Referência**
-[![Amazon AWS]([https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F](https://www.bing.com/images/search?view=detailV2&ccid=Sd4Hxz8%2f&id=CAA13F9E99B8202EDF1A6C1DB8C0C2F9151A89DD&thid=OIP.Sd4Hxz8_CqID29kyj5-k9wHaEc&mediaurl=https%3a%2f%2fwww.pngplay.com%2fwp-content%2fuploads%2f3%2fAmazon-Web-Services-AWS-Logo-Transparent-PNG.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.49de07c73f3f0aa203dbd9328f9fa4f7%3frik%3d3YkaFfnCwLgdbA%26pid%3dImgRaw%26r%3d0&exph=2400&expw=4000&q=aws+icon&simid=608017110382878103&FORM=IRPRST&ck=7CC5C191FE5EC63A0D147379BC6860AF&selectedIndex=0&itb=1))]([https://git-scm.com/doc](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#)) 
-<br>
+[![Amazon AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png).([https://git-scm.com/doc](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#))
+
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado pelo Arquiteto de Soluções Ricardo Nunes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
