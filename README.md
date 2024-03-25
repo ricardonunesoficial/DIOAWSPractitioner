@@ -16,9 +16,11 @@ Repositório desenvolvido para fins educativos, com entrega de um relatorio sobr
 
 **Referência**
 
+<h3>
     <a href="https://git-scm.com/doc](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#">
      <img align="center" width="40px" src="https://www.citypng.com/public/uploads/small/11596297757otxqduibd2cfaqftg7mqfiqel66qry89yvhvcp3icjnyl7ocparxrwvzwtey834bo8e3jba3qqouuznollkfkjlx2ozluwv9rmvi.png"></a>
     <span>**REDUÇÃO DE CUSTOS COM AWS**</span>
+</h3>
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado pelo Arquiteto de Soluções Ricardo Nunes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
