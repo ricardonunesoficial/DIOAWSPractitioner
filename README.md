@@ -6,9 +6,8 @@
 
 Repositório desenvolvido para fins educativos, com entrega de um relatorio sobre AWS **Implementando AWS em um novo Cliente com Redução de Custos** para avaliação da [Digital Innovation One](https://www.dio.me/).
 
-## Objetivo
-
 **ELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS**
+
 *Data:* Portugal, 25 de Março de 2024
 *Empresa:* Abstergo Industries 
 *Responsável:* Ricardo Nunes
@@ -16,10 +15,9 @@ Repositório desenvolvido para fins educativos, com entrega de um relatorio sobr
 **Referência**
 <h1>
     <a href="https://git-scm.com/doc](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#">
-     <img align="center" width="40px" src="![image](https://github.com/ricardonunesoficial/DIOAWSPractitioner/assets/146678112/23646c49-6c48-4dc8-905c-83e2450fb837)"></a>
-    <span>PROJETO AWS PRACTITIONER</span>
+     <img align="center" width="40px" src="https://www.citypng.com/public/uploads/small/11596297757otxqduibd2cfaqftg7mqfiqel66qry89yvhvcp3icjnyl7ocparxrwvzwtey834bo8e3jba3qqouuznollkfkjlx2ozluwv9rmvi.png"></a>
+    <span>**REDUÇÃO DE CUSTOS COM AWS**</span>
 </h1>
-[![Amazon AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png).
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado pelo Arquiteto de Soluções Ricardo Nunes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
