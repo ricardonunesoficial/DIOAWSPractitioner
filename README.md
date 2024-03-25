@@ -14,8 +14,12 @@ Repositório desenvolvido para fins educativos, com entrega de um relatorio sobr
 *Responsável:* Ricardo Nunes
 
 **Referência**
-[![Amazon AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png).([https://git-scm.com/doc](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#))
-
+<h1>
+    <a href="https://git-scm.com/doc](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#">
+     <img align="center" width="40px" src="![image](https://github.com/ricardonunesoficial/DIOAWSPractitioner/assets/146678112/23646c49-6c48-4dc8-905c-83e2450fb837)"></a>
+    <span>PROJETO AWS PRACTITIONER</span>
+</h1>
+[![Amazon AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png).
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado pelo Arquiteto de Soluções Ricardo Nunes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
