@@ -15,6 +15,7 @@ Repositório desenvolvido para fins educativos, com entrega de um relatorio sobr
 *Responsável:* Ricardo Nunes
 
 **Referência**
+
     <a href="https://git-scm.com/doc](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#">
      <img align="center" width="40px" src="https://www.citypng.com/public/uploads/small/11596297757otxqduibd2cfaqftg7mqfiqel66qry89yvhvcp3icjnyl7ocparxrwvzwtey834bo8e3jba3qqouuznollkfkjlx2ozluwv9rmvi.png"></a>
     <span>**REDUÇÃO DE CUSTOS COM AWS**</span>
